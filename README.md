@@ -42,6 +42,8 @@ The application is a simple website builder application that allows users to sub
 </div>
 ```
 
+**The output should be the actual elements not the text representation.**
+
 ### Extra Credit
 
 - Add a feature that allows a user to change the order of child elements via drag and drop. The JSON schema should also update to reflect the order change.
